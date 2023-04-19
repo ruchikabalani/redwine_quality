@@ -2,3 +2,7 @@ scikit-learn
 numpy
 panda
 matplotlib
+Path
+sklearn
+statsmodel
+dmba
